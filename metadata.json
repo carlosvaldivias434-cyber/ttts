@@ -1,0 +1,6 @@
+{
+  "name": "Discord Auto TTS Bot",
+  "description": "Automatic Discord Text-to-Speech bot built with Discord.js v14.28.1, native Components V2, Piper local TTS, and PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
